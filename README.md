@@ -10,7 +10,6 @@ I am a third-year Computer Science student specializing in backend development a
 - **Education:** BSc in Computer Science (Currently in 3rd year)
 - **Location:** Niš, Serbia
 - **Focus:** Backend Engineering, System Design, Automation & Scraping
-- **Currently learning:** Advanced concurrency patterns in Go and optimizing scraping architectures
 
 ---
 
@@ -25,13 +24,12 @@ I am a third-year Computer Science student specializing in backend development a
 
 ### Featured Projects
 
-#### [Full-Stack Web Application & Scraper Engine](https://github.com/Muchicmilan)
+#### [Full-Stack Web Application & Scraper Engine]
 *A web application featuring user authentication and an automated scraping engine.*
 * **Backend & Scraping:** Built an engine that navigates dynamic pages (handles scrolling and login states) to extract HTML and structure it into clean JSON format.
-* **Authentication:** Implemented a stateless JWT-based authentication system.
 * **Tech Stack:** React, Node.js (Express), MongoDB
 
-#### [IoT Card Reader Backend](https://github.com/Muchicmilan)
+#### [IoT Card Reader Backend]
 *A high-performance backend service designed to process physical RFID/UID card scans for access control.*
 * **Communication:** Utilized the MQTT protocol for reliable real-time messaging between IoT hardware and the server.
 * **Database Management:** Designed relational database schemas in PostgreSQL to manage user access and authorization logs.
